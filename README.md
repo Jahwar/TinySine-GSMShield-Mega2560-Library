@@ -13,9 +13,8 @@ Basic Function overview: [Overview](https://raw.github.com/MarcoMartines/GSM-GPR
 
 ### Install Notes:
 - Download current release:
-	- Generic Version [current](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield/archive/v3.07.1.zip)
-	- TiDiGino Version [current](https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield/archive/v3.07_TDG.zip)
-- Extract to your arduino/libraries folder
+	- Generic Version [current](https://github.com/Jahwar/TinySine-GSMShield-Mega2560-Library/archive/master.zip)
+	-  Extract to your arduino/libraries folder
 
 ### LICENSE:
 GNU GPL v3 except where noted otherwise.
